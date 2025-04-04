@@ -8,12 +8,17 @@
   <details>
     <summary> More about me </summary>
     - 🌱 Atualmente estou aprendendo...
+    <br>
     - 👯 Estou procurando colaborar em...
+    <br>
     - 🤔 Estou procurando ajuda com...
+    <br>
     - 💬 Pergunte-me sobre...
+    <br>
     - 📫 Email para contato: kauaoliveira2503@gmail.com
   </details>
 </div>
+
 #
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThwcmJpZzdrZnZrMWp0eThtNjJmbW5jdG40MHA1dWwwMmVtOGV0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
