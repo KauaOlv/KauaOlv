@@ -1,14 +1,12 @@
 # Seja bem vindo ao meu GitHub!
 
----
-
 Me chamo Kauã 
 
 <details>
   <summary> More about me </summary>
 </details>
 
-#
+---
 
 <h2 align="center">Hi! My name is Kauã Oliveira</h2>
 
