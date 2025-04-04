@@ -55,7 +55,7 @@
 
 ###
 
-  <img align="center" width="100" src="https://images7.alphacoders.com/131/thumb-1920-1317081.png">
+  <img align="center" width="500" src="https://images7.alphacoders.com/131/thumb-1920-1317081.png">
 
 ###
 
