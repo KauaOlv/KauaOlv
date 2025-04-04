@@ -58,7 +58,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaOlv/KauaOlv/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaOlv/KauaOlv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaOlv/KauaOlv/output/pacman-contribution-graph.svg">
+  <img alt="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2szaGVsN2NxMm9zMjdqNDN0MGh3YmM1YnN3aDdwYWE5dmtsdGg0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif">
 </picture>
 
 ###
