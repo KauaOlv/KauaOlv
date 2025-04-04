@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kauã and I'm a desenvolvedor, from WebDesing</h2>
+<h2 align="center">Hi! My name is Kauã Oliveira</h2>
 
 ###
 
