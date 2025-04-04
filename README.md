@@ -45,7 +45,7 @@
 
 #
 
-  <img align="center" heigth="10000" src="https://i.pinimg.com/originals/58/8c/03/588c03a9b68d7be385ecb0d35f622e69.gif">
+  <img align="center" src="https://i.pinimg.com/originals/58/8c/03/588c03a9b68d7be385ecb0d35f622e69.gif">
 
 
 #
@@ -79,7 +79,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
 </picture>
 
 
