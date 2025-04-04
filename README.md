@@ -6,7 +6,7 @@
   <h3>My name is Kauã</h3> 
   🎓 I am studying computer science
   <br>
-  💻 I'm looking for my first job
+  💻 looking for my first job
   <details>
     <summary> More about me </summary>
     - 🌱 Atualmente estou aprendendo...
