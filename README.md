@@ -50,6 +50,14 @@
 
 #
 
+<div align="center">
+  <a href="https://github.com/BonfimLucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=holi"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=holi"/>
+</div>
+
+#
+
 <div align="left">
   <a href="https://www.instagram.com/kaua_lv05/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -74,14 +82,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
-#
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KauaOlv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KauaOlv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
-</div>
 
 #
 
