@@ -1,4 +1,12 @@
+# Seja bem vindo ao meu GitHub!
 
+---
+
+Me chamo Kauã 
+
+<details>
+  <summary> More about me </summary>
+</details>
 
 #
 
