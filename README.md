@@ -1,15 +1,22 @@
 # Seja bem vindo ao meu GitHub!
 <div aling="center">
+  ![Bem-vindo](https://media.giphy.com/media/3oKIPa2TdahY8o0r20/giphy.gif)
   <img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif">
 </div>
 <div align="center">
   <h3>My name is Kauã</h3> 
   🎓 I am studying computer science
+  <br>
   💻 I'm looking for my first job
 </div>
 
 <details>
   <summary> More about me </summary>
+  - 🌱 Atualmente estou aprendendo...
+  - 👯 Estou procurando colaborar em...
+  - 🤔 Estou procurando ajuda com...
+  - 💬 Pergunte-me sobre...
+  - 📫 Email para contato: kauaoliveira2503@gmail.com
 </details>
 
 ---
