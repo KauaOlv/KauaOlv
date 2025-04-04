@@ -5,6 +5,15 @@
   🎓 I am studying computer science
   <br>
   💻 I'm looking for my first job
+  <details>
+  <summary> More about me </summary>
+  - 🌱 Atualmente estou aprendendo...
+  - 👯 Estou procurando colaborar em...
+  - 🤔 Estou procurando ajuda com...
+  - 💬 Pergunte-me sobre...
+  - 📫 Email para contato: kauaoliveira2503@gmail.com
+</details>
+
 </div>
 
 <details>
