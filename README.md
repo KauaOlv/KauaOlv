@@ -40,16 +40,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  Sistema Operacional
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
 </div>
 
 #
 
 <div align="center">
-  <a href="https://github.com/BonfimLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=holi"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=holi"/>
+  <a href="https://github.com/KauaOlv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaOlv&show_icons=true&theme=holi"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaOlv&layout=compact&langs_count=7&theme=holi"/>
 </div>
 
 #
