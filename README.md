@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu GitHub!
 <div aling="center">
-  ![Bem-vindo](https://media.giphy.com/media/3oKIPa2TdahY8o0r20/giphy.gif)
+  <img src"https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif">
 </div>
 <div align="center">
   <h3>My name is Kauã</h3> 
