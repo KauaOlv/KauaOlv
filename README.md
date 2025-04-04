@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu GitHub!
 <div aling="center">
-  ![Minha Foto](https://images.steamusercontent.com/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+  <img src="https://images.steamusercontent.com/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
 <div align="center">
   <h3>My name is Kauã</h3> 
