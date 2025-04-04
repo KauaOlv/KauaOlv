@@ -1,6 +1,12 @@
 # Seja bem vindo ao meu GitHub!
-
-Me chamo Kauã 
+<div aling="center">
+  <img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif">
+</div>
+<div align="center">
+  <h3>My name is Kauã</h3> 
+  🎓 I am studying computer science
+  💻 I'm looking for my first job
+</div>
 
 <details>
   <summary> More about me </summary>
