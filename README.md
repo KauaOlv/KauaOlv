@@ -45,7 +45,7 @@
 
 #
 
-  <img align="center" src="https://i.pinimg.com/originals/58/8c/03/588c03a9b68d7be385ecb0d35f622e69.gif">
+  <img align="center" src="https://i.imgur.com/C3ypF4O.gif">
 
 
 #
