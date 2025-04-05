@@ -77,9 +77,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaOlv/KauaOlv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaOlv/KauaOlv/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KauOlv/KauaOlv/output/github-snake.svg"/>
 </picture>
 
 
@@ -87,8 +87,3 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="340" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRiaWxta2J4cmRucmExMjBnY3dnYXBobzIxcTB1bHBhZGZsMHowMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5KGHdmmxHdwk/giphy.gif"  />
-</div>
-
-###
