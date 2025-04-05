@@ -82,6 +82,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/KauOlv/KauaOlv/output/github-snake.svg"/>
 </picture>
 
+![Snake animation](https://github.com/KauaOlv/Kauaolv/blob/output/github-contribution-grid-snake.svg)
 
 #
 
