@@ -9,10 +9,10 @@
   💻 Looking for my first job
   <details>
     <summary> More about me </summary>
-  - 19 anos
-  - A procura de uma oportunidade
-  - Sempre renovando conhecimentos
-  - Disposto a aprender cada vez mais
+  - 19 anos <br>
+  - A procura de uma oportunidade <br>
+  - Sempre renovando conhecimentos <br>
+  - Disposto a aprender cada vez mais <br>
   - 📫 Email para contato: kauaoliveira2503@gmail.com
   </details>
 </div>
