@@ -9,15 +9,11 @@
   💻 Looking for my first job
   <details>
     <summary> More about me </summary>
-    - 🌱 Atualmente estou aprendendo...
-    <br>
-    - 👯 Estou procurando colaborar em...
-    <br>
-    - 🤔 Estou procurando ajuda com...
-    <br>
-    - 💬 Pergunte-me sobre...
-    <br>
-    - 📫 Email para contato: kauaoliveira2503@gmail.com
+  - 19 anos
+  - A procura de uma oportunidade
+  - Sempre renovando conhecimentos
+  - Disposto a aprender cada vez mais
+  - 📫 Email para contato: kauaoliveira2503@gmail.com
   </details>
 </div>
 
