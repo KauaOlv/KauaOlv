@@ -3,10 +3,11 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThwcmJpZzdrZnZrMWp0eThtNjJmbW5jdG40MHA1dWwwMmVtOGV0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
 
 <div align="left">
-  <h3>My name is Kauã</h3> 
-  🎓 I am studying computer science
+  <h3>Olá! Sejá bem vindo</h3>
+  <h2>Me chamo Kauã!</h2>
+  🎓 Estou estudando Engenharia de Software
   <br>
-  💻 Looking for my first job
+  💻 Em busca de uma oportunidade
   <details>
     <summary> More about me </summary>
   - 19 anos <br>
