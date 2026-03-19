@@ -64,20 +64,13 @@
   <a href="https://discord.gg/WmJksEWgBG" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="www.linkedin.com/in/kauã-olv-007k" target="_blank">
+  <a href="https://www.linkedin.com/in/kauã-olv-007k" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/5511989711013" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaOlv/KauaOlv/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaOlv/KauaOlv/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KauOlv/KauaOlv/output/github-snake.svg"/>
-</picture>
-
 
 <br clear="both">
 
