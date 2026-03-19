@@ -55,7 +55,7 @@
 #
 
 <div align="center">
-  <a href="https://www.instagram.com/kaua_lv05/" target="_blank">
+  <a href="https://www.instagram.com/kaua_lvzz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/candyr1907" target="_blank">
@@ -78,9 +78,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/KauOlv/KauaOlv/output/github-snake.svg"/>
 </picture>
 
-![Snake animation](https://github.com/KauaOlv/Kauaolv/blob/output/github-contribution-grid-snake.svg)
-
-#
 
 <br clear="both">
 
