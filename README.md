@@ -58,7 +58,7 @@
   <a href="https://www.instagram.com/kaua_lvzz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/candyr1907" target="_blank">
+  <a href="https://www.twitch.tv/alemosozz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="https://discord.gg/UbWmk8k4" target="_blank">
