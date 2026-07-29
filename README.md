@@ -4,13 +4,13 @@
 
 <div align="left">
   <h3>Olá! Sejá bem vindo</h3>
-  <h2>Me chamo Kauã!</h2>
-  🎓 Estou estudando Engenharia de Software
+  <h2>It's me, Kauã!</h2>
+  🎓 Estou estudando Ciências da Computação
   <br>
   💻 Em busca de uma oportunidade
   <details>
     <summary> More about me </summary>
-  - 19 anos <br>
+  - 20 anos <br>
   - A procura de uma oportunidade <br>
   - Sempre renovando conhecimentos <br>
   - Disposto a aprender cada vez mais <br>
