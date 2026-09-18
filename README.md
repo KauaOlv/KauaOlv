@@ -1,24 +1,65 @@
-# Seja bem vindo ao meu GitHub
+# You welcom my GitHub
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThwcmJpZzdrZnZrMWp0eThtNjJmbW5jdG40MHA1dWwwMmVtOGV0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
 
-<div align="left">
-  <h3>Olá! Sejá bem vindo</h3>
-  <h2>It's me, Kauã!</h2>
-  🎓 Estou estudando Ciências da Computação
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
+
+  <h3>Hello World! Welcome</h3>
+  <h2>It's me.. Kauã!</h2>
+ 
   <br>
-  💻 Em busca de uma oportunidade
+  💻 Developer
+
+```javascript
+const Developer = {
+
+    name: "Kauã Oliveira",
+
+    role: "Font-end Developer",
+
+    country: "Earth 🌎",
+
+    focus: [
+        "Frontend",
+        "Data Analyst",
+        "Artificial Intelligence"
+    ],
+
+    currentlyLearning: [
+        "Machine Learning",
+        "Microservices",
+        "System Design",
+        "Cloud Computing"
+    ],
+
+    hobbies: [
+        "Coding";
+        "Music";
+        "Gym";
+        "Coffee";
+        "Technology";
+        "Game development";
+    ],
+
+    lifeGoal:
+        "To become a developer capable of turning complex problems into simple solutions, using technology not only to build systems, but to create possibilities.";
+}
+```
+
+
   <details>
+  # 👨‍💻 About Me
+
+
     <summary> More about me </summary>
-  - 20 anos <br>
-  - A procura de uma oportunidade <br>
-  - Sempre renovando conhecimentos <br>
-  - Disposto a aprender cada vez mais <br>
-  - 📫 Email para contato: kauaoliveira2503@gmail.com
+  - I study Computer Science <br>
+  - 
+   <br> <br>
   </details>
 </div>
 
-#
+# 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
