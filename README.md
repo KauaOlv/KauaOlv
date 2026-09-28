@@ -4,12 +4,13 @@
 
   <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
+</div>
 
- # 👨‍💻 About Me
+  # 👨‍💻 About Me
 
-```javascript
-const Developer = {
+  ```javascript
+  const Developer = {
 
     name: "Kauã Oliveira",
 
@@ -44,29 +45,29 @@ const Developer = {
 }
 ```
 
+<div align="center">
+  <details>
+    $ favorite editor
 
-<details>
-  $ favorite editor
+    Visual Studio Code
 
-  Visual Studio Code
+    $ favorite_language
 
-  $ favorite_language
+    ☕ Java
 
-  ☕ Java
+    $ current_project
 
-  $ current_project
+    Building a site about myself
 
-  Building a site about myself
+    $ motivation
 
-  $ motivation
-
-  while(alive){
-      learn();
-      build();
-      improve();
-}
-</details>
-
+    while(alive){
+        learn();
+        build();
+        improve();
+  }
+  </details>
+</div>
 
 # ⚡ Tech Stack
 
@@ -94,9 +95,20 @@ const Developer = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KauaOlv&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=KauaOlv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaOlv&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaOlv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </div>
 
@@ -134,6 +146,3 @@ const Developer = {
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-<br clear="both">
-
