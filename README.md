@@ -45,13 +45,28 @@ const Developer = {
 ```
 
 
-  <details>
+<details>
+  $ favorite editor
 
-  - I study Computer Science <br>
-  - 
-   <br> <br>
-  </details>
-</div>
+  Visual Studio Code
+
+  $ favorite_language
+
+  ☕ Java
+
+  $ current_project
+
+  Building a site about myself
+
+  $ motivation
+
+  while(alive){
+      learn();
+      build();
+      improve();
+}
+</details>
+
 
 # ⚡ Tech Stack
 
@@ -71,16 +86,28 @@ const Developer = {
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,intellij,pycharm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea,pycharm"/>
 
 </div>
 
-#
+# 📊 GitHub Analytics
 
-  <img align="center" src="https://i.imgur.com/C3ypF4O.gif">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KauaOlv&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaOlv&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KauaOlv&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 
-#
+# 📱 Social Media
 
 <div align="center">
   <a href="https://github.com/KauaOlv">
