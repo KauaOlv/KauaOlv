@@ -3,7 +3,6 @@
   <h3>Hello World! <br> Welcome</h3>
 
   <br>
-  💻 Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
 
@@ -47,36 +46,33 @@ const Developer = {
 
 
   <details>
-  # 👨‍💻 About Me
 
-
-    <summary> More about me </summary>
   - I study Computer Science <br>
   - 
    <br> <br>
   </details>
 </div>
 
-# 
+# ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
+
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
+
+### Back-End
+
+<img src="https://skillicons.dev/icons?i=java,python"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,intellij,pycharm"/>
+
 </div>
 
 #
