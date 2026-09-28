@@ -4,7 +4,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=6BD600&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
 </div>
 
   # 👨‍💻 About Me
@@ -47,6 +47,7 @@
 
 <div align="center">
   <details>
+  
     $ favorite editor
 
     Visual Studio Code
@@ -65,9 +66,11 @@
         learn();
         build();
         improve();
-  }
+    }
   </details>
 </div>
+
+<br>
 
 # ⚡ Tech Stack
 
@@ -91,43 +94,19 @@
 
 </div>
 
+<br>
+
 # 📊 GitHub Analytics
-
 <div align="center">
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KauaOlv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KauaOlv&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=KauaOlv&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaOlv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaOlv&theme=github_dark&hide_border=true"/>
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KauaOlv&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+<br>
 
 # 📱 Social Media
-
-<div align="center">
-  <a href="https://github.com/KauaOlv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaOlv&show_icons=true&theme=holi"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaOlv&layout=compact&langs_count=7&theme=holi"/>
-</div>
-
-#
 
 <div align="center">
   <a href="https://www.instagram.com/kaua_lvzz/" target="_blank">
