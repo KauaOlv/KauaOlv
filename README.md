@@ -1,12 +1,11 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
 
   <h3>Hello World! <br> Welcome</h3>
-  <h2>It's me.. Kauã!</h2>
- <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThwcmJpZzdrZnZrMWp0eThtNjJmbW5jdG40MHA1dWwwMmVtOGV0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
+
   <br>
   💻 Developer
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
 
  # 👨‍💻 About Me
 
